@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MUST Mate</title>
+        <item>
+            <title>1.92.0</title>
+            <pubDate>Mon, 01 Jul 2024 21:38:19 +0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.92.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="mustmate-dev.1.92.0+1.dmg" length="26151314" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
