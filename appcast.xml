@@ -3,15 +3,12 @@
     <channel>
         <title>MUST Mate</title>
         <item>
-            <title>1.92.0</title>
-            <pubDate>Mon, 01 Jul 2024 21:38:19 +0500</pubDate>
+            <title>1.95.0</title>
+            <pubDate>Tue, 02 Jul 2024 16:03:18 +0500</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.92.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.95.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://drive.usercontent.google.com/download?id=1lE_nhsCOf1jMni23f6Vu9Jjj6QZJ3E69&export=download&authuser=0&confirm=t&uuid=26bb08ad-7c29-42b5-9dff-eb83234d8e4e&at=APZUnTWkd77ZC6aNjXYJS2MwnvD5:1719851868471" 
-                sparkle:edSignature="B/+gR3V60XJ1OAHWd0C0KTZJz62UdGdGSvXumEOPZQKAkWoayZ8ibprZ4Oxx4oltfztijqe4xQyKyzv/w79CBQ==" 
-                length="25410411"
-                type="application/octet-stream"/>
+            <enclosure url="https://github.com/szubair-mufin/sparkleappcast/releases/download/release/must_mate_1_95_0.dmg" length="26135594" type="application/octet-stream" sparkle:edSignature="mCN/wNEbw4w2tPV75rxLVoGqOV2s9hgqlBRPprTFMOLCAEKEvQPsPxYgaXml3MYWZ2TlUTMIV61KbjDUr7B/Bg=="/>
         </item>
     </channel>
 </rss>
