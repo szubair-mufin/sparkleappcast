@@ -5,7 +5,7 @@
         <item>
             <title>1.95.0</title>
             <pubDate>Tue, 02 Jul 2024 18:16:45 +0500</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.95.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/szubair-mufin/sparkleappcast/releases/download/release/must_mate_195.dmg" length="25543878" type="application/octet-stream" sparkle:edSignature="3OOJLYQNTvBampCDka3+CnFutjTjr3o/ICKQ+r8x7SPMPXGL3b90xVN9iq3EX97w3blUm6T4xDh4ZoozGtfgBw=="/>
