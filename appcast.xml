@@ -8,7 +8,10 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.92.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://drive.usercontent.google.com/download?id=1lE_nhsCOf1jMni23f6Vu9Jjj6QZJ3E69&export=download&authuser=0&confirm=t&uuid=26bb08ad-7c29-42b5-9dff-eb83234d8e4e&at=APZUnTWkd77ZC6aNjXYJS2MwnvD5:1719851868471" length="26151314" type="application/octet-stream"/>
+            <enclosure url="https://drive.usercontent.google.com/download?id=1lE_nhsCOf1jMni23f6Vu9Jjj6QZJ3E69&export=download&authuser=0&confirm=t&uuid=26bb08ad-7c29-42b5-9dff-eb83234d8e4e&at=APZUnTWkd77ZC6aNjXYJS2MwnvD5:1719851868471" 
+                sparkle:edSignature="B/+gR3V60XJ1OAHWd0C0KTZJz62UdGdGSvXumEOPZQKAkWoayZ8ibprZ4Oxx4oltfztijqe4xQyKyzv/w79CBQ==" 
+                length="25410411"
+                type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
