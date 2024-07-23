@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.104.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/szubair-mufin/sparkleappcast/releases/download/release/mustmate-dev.1.104.dmg" length="27036315" type="application/octet-stream"/>
+            <enclosure url="https://github.com/szubair-mufin/sparkleappcast/releases/download/release/must-mate-dev-1.104.dmg" length="27036315" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
