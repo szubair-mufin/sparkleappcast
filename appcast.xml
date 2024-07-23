@@ -5,7 +5,7 @@
         <item>
             <title>1.104.0</title>
             <pubDate>Tue, 23 Jul 2024 16:14:32 +0500</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.104.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure url="https://dev-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-dev.1.104.0%2B1.dmg" length="27036315" type="application/octet-stream"/>
