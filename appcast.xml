@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.104.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="mustmate-dev.1.104.0+1.dmg" length="27036315" type="application/octet-stream"/>
+            <enclosure url="https://dev-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-dev.1.104.0%2B1.dmg" length="27036315" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
