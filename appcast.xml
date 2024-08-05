@@ -5,7 +5,7 @@
         <item>
             <title>1.104.2</title>
             <pubDate>Sun, 04 Aug 2024 01:45:30 +0500</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.104.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure url="https://dev-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-b.dmg" length="26369884" type="application/octet-stream" sparkle:edSignature="3XlYyQaj2zgpLqDq31C2Sgq1rg2C7txKUF2zMMJaOgHyE7OC5NcxSJAmBeXkkpU3FdBfA4QjeVNl0iRkdL2dDg=="/>
