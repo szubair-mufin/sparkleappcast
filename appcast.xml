@@ -8,7 +8,7 @@
         <item>
             <title>1.104.1</title>
             <pubDate>Sun, 04 Aug 2024 01:42:30 +0500</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.104.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <description>
@@ -20,7 +20,7 @@
         <item>
             <title>1.104.2</title>
             <pubDate>Sun, 04 Aug 2024 01:45:30 +0500</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.104.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <description>
