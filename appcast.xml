@@ -8,6 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.104.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://szubair-mufin.github.io/sparkleappcast/release_notes.html</sparkle:releaseNotesLink>
             <enclosure url="https://dev-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-b.dmg" length="26369884" type="application/octet-stream" sparkle:edSignature="3XlYyQaj2zgpLqDq31C2Sgq1rg2C7txKUF2zMMJaOgHyE7OC5NcxSJAmBeXkkpU3FdBfA4QjeVNl0iRkdL2dDg=="/>
         </item>
     </channel>
