@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MUST Mate DEV</title>
+        <title>MUST Mate</title>
         <item>
-            <title>1.114.0</title>
-            <pubDate>Sat, 10 Aug 2024 09:01:06 +0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.114.0</sparkle:shortVersionString>
+            <title>1.124.3</title>
+            <pubDate>Sat, 24 Aug 2024 13:26:50 +0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.124.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://dev-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-dev.1.114.0%2B1.dmg" length="14778826" type="application/octet-stream" sparkle:edSignature="YmmVHrQjbPgsGBR6vu8wv7I7CkGKUAep0lln28ARkd/tfq+4Us8GMraW2pc88Ej+AKW8aqt5FlwE5JfjKecsAA=="/>
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-prd.1.124.3%2B1.dmg" length="27336719" type="application/octet-stream" sparkle:edSignature="pBZXuDDBOu4LHJs4PVvF9mySzn0nkXf9rJydYk+cbtuQsoHzsQ8zEve0vGjguMrklHyEH25HQH/3NlyR6UA1AQ=="/>
         </item>
     </channel>
 </rss>
