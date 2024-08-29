@@ -8,6 +8,7 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.128.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://szubair-mufin.github.io/sparkleappcast/release_notes.html</sparkle:releaseNotesLink>
             <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-prd.1.128.0%2B7.dmg" length="27306682" type="application/octet-stream" sparkle:edSignature="y9s0mSST5uHfOYAfC4wedeSPUGuLI52oX7STE/sxs1v9a1WiLJVO764QKlyFikRkbKpeZSyiwqSyZLAhuicUDw=="/>
         </item>
     </channel>
