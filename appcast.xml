@@ -3,13 +3,13 @@
     <channel>
         <title>MUST Mate</title>
         <item>
-            <title>1.130.0</title>
-            <pubDate>Tue, 03 Sep 2024 14:07:33 +0500</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.130.0</sparkle:shortVersionString>
+            <title>1.135.0</title>
+            <pubDate>Tue, 10 Sep 2024 11:37:47 +0500</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.135.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://szubair-mufin.github.io/sparkleappcast/release_notes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-prd.1.130.0%2B9.dmg" length="27324166" type="application/octet-stream" sparkle:edSignature="Oubrn6rBEbyq/p9skXPkqkLd88RvN/txVQOsDSNCuJPv9NoMj5THRD0Ei8g0ifVzRCYK/5CZFEV2eg0gpjMmCA=="/>
+  <sparkle:releaseNotesLink>https://szubair-mufin.github.io/sparkleappcast/release_notes.html</sparkle:releaseNotesLink>
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-prd.1.135.0%2B11.dmg" length="27328038" type="application/octet-stream" sparkle:edSignature="5b3N1YQofkq6HmrQKtSV+w+z7bYedo4LHbwq1l50TD23TaxI9hmAV3yrQFdwxFcmo5E/dQxwBSEkJ+AYlqI4Bg=="/>
         </item>
     </channel>
 </rss>
